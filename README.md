@@ -9,7 +9,7 @@
     <img src="./img.png" alt="Logo" width="480" height="280">
   </a>
 
-<h3 align="center">SDK_TOOL</h3>
+<h3 align="center">My_Dependabot</h3>
 
   <p align="center">
     A CLI tool to keep your dependencies up to date.<br>It checks your dependency files for outdated requirements and opens individual PRs for any it finds.
@@ -100,7 +100,7 @@ This is an example of how to list things you need to use the software and how to
 Clone the repository:
 
 ```
-git clone https://github.com/dyte-submissions/dyte-vit-2022-MishraLokesh
+git clone https://github.com/MishraLokesh/My_Dependabot.git
 ```
 
 Install the dependencies:
@@ -130,7 +130,7 @@ sudo npm i -g @octokit/core
 
 After installation, the sdk_tool is ready to be used
 #
-The test csv file 'dyte.csv' is already there.
+The test csv file 'test.csv' is already there.
 Only change to me made is the GitHub username and Bearer Token in .env file. Currently they are set to mine, in order to fork and generate a pull request from there
 #
 
@@ -230,7 +230,7 @@ lokesh.mishra2019@vitstudent.ac.in<br>
 https://www.linkedin.com/in/lokesh-mishra-0807/
 
 
-Project Link - https://github.com/dyte-submissions/dyte-vit-2022-MishraLokesh
+Project Link - https://github.com/MishraLokesh/My_Dependabot.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
